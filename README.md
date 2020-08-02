@@ -1,2 +1,2 @@
 # SMS-Sender
-A free sms sender
+A small python code that helps us send sms to anyone,within certain attributes
